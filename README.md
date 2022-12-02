@@ -4,5 +4,5 @@ Miami landing page implemented based on a template [Miami](https://www.figma.com
 # Build with
 HTML/SCSS/BEM
 
-# Demo
+# Preview
 View this landing page in action [here](https://olhach.github.io/miami-landing-page/)
